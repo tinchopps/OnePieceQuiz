@@ -42,4 +42,3 @@ npm run lint       # Linter
 ---
 
 ¡Conquista Grand Line y demuestra cuánto sabes de One Piece! ☠️🏴‍☠️
-```
